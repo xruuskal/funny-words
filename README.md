@@ -5,3 +5,9 @@ Accepts currently only .txt or .html files or directories containing such files 
 
 ### `scalac FunnyWords.scala`
 ### `scala nut.FunnyWords inputFile.txt`
+
+## Todo
+
+- [] Tests
+- [] Error handling
+- [] Take multiple args
